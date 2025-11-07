@@ -43,7 +43,8 @@ id,value
 etc.
 
 
-Acknowledgements
+Acknowledgements:
+
 Use of the Competition Datasets in any academic work or research papers should use the following citations:
 
 Shivashankara KK, Deepanshi, Shervedani AM, Reyna MA, Clifford GD, Sameni R. ECG-Image-Kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization. Physiological Measurement 2024; 45:055019. DOI: 10.1088/1361-6579/ad4954
